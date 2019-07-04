@@ -1,0 +1,16 @@
+{
+  "name": "startrek",
+  "version": "1.0.0",
+  "description": "IQ Bit test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Danie Freire",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": "https://github.com/DanielFryy/startrek-iq-bit.git"
+}
